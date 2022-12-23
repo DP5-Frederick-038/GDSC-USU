@@ -48,7 +48,7 @@
                         </div>
 
                         <div class="mb-3">
-                            <label for="stambuk">Stambuk</label>
+                            <label for="stambuk">Angkatan</label>
                             <input id="stambuk" type="text" class="form-control" name="stambuk" placeholder="Masukkan stambuk" required value="<?= $data['stambuk'] ?>">
                         </div>
                     </form>
